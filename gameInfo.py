@@ -1,6 +1,5 @@
 # QuartzzDev
 
-import time
 import random
 
 oyunTur = ["Macera","Korku","Aksiyon","Komedi","Gerilim","Simulasyon","Strateji","Platform","Battle Royal"]
